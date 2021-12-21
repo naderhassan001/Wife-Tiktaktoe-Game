@@ -1,4 +1,3 @@
-
 // -- HTML elements --
 const board = document.getElementById( 'board' );
 const cells = document.querySelectorAll( '[data-cell]' );
@@ -47,10 +46,10 @@ const swapTurns = () => {
 
 const updateCurrentStatus = () => {
   if ( unicornTurn ) {
-    currentBeastStatusImg.src = 'https://d14u0p1qkech25.cloudfront.net/1866310_1a73a077-9814-4c3c-8d42-c080530c3708_thumbnail_250x250';
+    currentBeastStatusImg.src = 'https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/IqraOuter.jpg';
     currentBeastStatusImg.alt = 'unicorn';
   } else {
-    currentBeastStatusImg.src = 'https://i.ibb.co/3NXW3b5/aec095f0-9c94-4da3-959a-3a34ccdb6d4a.jpg';
+    currentBeastStatusImg.src = 'https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/NaderOuter.jpg';
     currentBeastStatusImg.alt = 'dragon';
   }
 }
@@ -86,7 +85,7 @@ const endGame = ( draw ) => {
   if ( draw ) {
     winningMessageText.innerText = `draw!`;
   } else {
-    winningMessageImg.src = unicornTurn ? 'https://d14u0p1qkech25.cloudfront.net/1866310_1a73a077-9814-4c3c-8d42-c080530c3708_thumbnail_250x250' : 'https://i.ibb.co/3NXW3b5/aec095f0-9c94-4da3-959a-3a34ccdb6d4a.jpg';
+    winningMessageImg.src = unicornTurn ? 'https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/IqraOuter.jpg' : 'https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/NaderOuter.jpg';
     winningMessageImg.alt = unicornTurn ? 'unicorn' : 'dragon';
     winningMessage.insertBefore( winningMessageImg, winningMessageText );
     winningMessageText.innerText = `wins!!!`
