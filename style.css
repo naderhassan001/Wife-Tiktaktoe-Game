@@ -152,10 +152,10 @@ p {
   opacity: 50%;
 }
 .board.unicorn .cell:not(.dragon):hover::before {
-  background-image: url("https://assets.codepen.io/2558758/unicorn.png");
+  background-image: url("https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/NaderInnerPhoto.jpg");
 }
 .board.dragon .cell:not(.unicorn):hover::before {
-  background-image: url("https://assets.codepen.io/2558758/dragon.png");
+  background-image: url("https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/IqraInnerPhoto.jpg");
 }
 
 .cell {
@@ -188,10 +188,10 @@ p {
   background-size: contain;
 }
 .cell.dragon::before {
-  background-image: url("https://assets.codepen.io/2558758/dragon.png");
+  background-image: url("https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/IqraInnerPhoto.jpg");
 }
 .cell.unicorn::before {
-  background-image: url("https://assets.codepen.io/2558758/unicorn.png");
+  background-image: url("https://raw.githubusercontent.com/naderhassan001/Wife-Tiktaktoe-Game/main/Pictures/NaderInnerPhoto.jpg");
 }
 
 .game-end-overlay {
