@@ -1,6 +1,6 @@
 <h1 align="center">Wife TikkTacToe Game</h1>
 
-<p align="center"><project-description></p>
+<p align="center">Project-description</p>
 
 ## Links
 
