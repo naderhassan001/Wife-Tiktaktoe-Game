@@ -1,6 +1,6 @@
-<h1 align="center">Wife TikkTacToe Game</h1>
+<h1 align="center">Wife TikTacToe Game</h1>
 
-<p align="center">Project-description</p>
+<p align="center">This is a TikTacToe game I made for my fiance/future wife! Its basically a simple TikTacToe game that uses our faces instead of X's and O's</p>
 
 ## Links
 
