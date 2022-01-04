@@ -1,16 +1,12 @@
 <h1 align="center">Wife TikTacToe Game</h1>
 
-<p align="center">This is a TikTacToe game I made for my fiance/future wife! Its basically a simple TikTacToe game that uses our faces instead of X's and O's</p>
+<p align="center">This is a TikTacToe game I made for my fiance/future wife! Its basically a simple TikTacToe game that uses our faces instead of X's and O's!</p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](<https://github.com/naderhassan001/Wife-Tiktaktoe-Game> "<project-name> Repo")
 
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Live](<http://wifetiktactoe.s3-website-us-east-1.amazonaws.com/> "Live View")
 
 ## Screenshots
 
