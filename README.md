@@ -35,7 +35,6 @@ You can open the index.html file in a web browser or with the extention "liver s
 
 - [Profile](https://github.com/naderhassan001 "Rohit jain")
 - [Email](mailto:nader.hassan001@gmail.com "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
 
 ## 🤝 Support
 
